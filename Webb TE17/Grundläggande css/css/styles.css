@@ -1,0 +1,36 @@
+body {
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+    color: #d179d4;
+    margin-left: 20px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    float:left;
+}
+
+.blue {
+    margin-left: 50px;
+    background-color: #2b79be;
+}
+
+.pink {
+    background-color: #f8cdd4;
+}
+
+.black {
+    background-color: #000;
+    clear:both;
+}
+
+
+

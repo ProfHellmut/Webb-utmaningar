@@ -1,0 +1,29 @@
+body {
+    margin:0 auto;
+    padding: 0;
+}
+
+header {
+    background-image: url(/img/hero.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero {
+    position: absolute;
+    color: #FFF;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.hero h1 {
+    font-size: 450%;
+    margin:0;
+}
+
+.hero h3 {
+    font-size: 200%;
+    margin: 0;
+}
